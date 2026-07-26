@@ -115,7 +115,11 @@ Keep recommendations practical, thoughtful, and emotionally meaningful.
 
 ## AI Generated Recommendation
 
-<img width="289" height="316" alt="image" src="https://github.com/user-attachments/assets/f951fa5e-a337-40be-9a3b-0fc3ab218a83" />
+<img width="1153" height="586" alt="image" src="https://github.com/user-attachments/assets/43bd7fe4-7981-49b3-8c30-93934caf0e39" />
+
+## Saved Collections
+
+<img width="1113" height="604" alt="image" src="https://github.com/user-attachments/assets/67c1ba46-5d14-493d-b25a-e7f90dcafda8" />
 
 
 # 🚀 How to Run the Project
