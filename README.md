@@ -33,6 +33,7 @@ Giftora AI solves this problem by using Artificial Intelligence to generate pers
 - 🎀 Creative gift wrapping suggestions
 - 🎉 Surprise presentation ideas
 - 💰 Budget-aware recommendations
+- 📂 Save favorite gift recommendations into personal collections
 - ❤️ Personalized recommendations based on relationship and interests
 - 📱 Responsive design for desktop and mobile
 - ⚡ Fast AI response generation using Groq API
@@ -196,7 +197,6 @@ These challenges were resolved through debugging, API migration, and deployment 
 Future improvements planned for Giftora AI include:
 
 - User authentication
-- Save favorite gift ideas
 - AI-generated gift images
 - Shopping links
 - Price comparison
