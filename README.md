@@ -1,4 +1,4 @@
-# 🎁 Giftora AI
+<img width="1197" height="609" alt="image" src="https://github.com/user-attachments/assets/982a3969-0c35-4fbf-b21d-89671c4c1db3" /># 🎁 Giftora AI
 
 Giftora AI is an AI-powered web application that helps users discover thoughtful and personalized gift ideas for their loved ones. It also generates heartfelt greeting card messages, creative gift wrapping ideas, and surprise presentation suggestions based on the recipient, occasion, interests, and budget.
 
@@ -16,13 +16,13 @@ Giftora AI solves this problem by using Artificial Intelligence to generate pers
 
 **Live Application:**
 
-👉 https://YOUR_VERCEL_LINK.vercel.app
+👉 https://giftora-gift-recommender.vercel.app/
 
 ---
 
 # 💻 GitHub Repository
 
-👉 https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+👉 https://github.com/zainabshafique2011-del/Giftora-Gift-Recommender
 
 ---
 
@@ -104,76 +104,46 @@ Keep recommendations practical, thoughtful, and emotionally meaningful.
 
 ## Home Page
 
-*(Insert Screenshot Here)*
+<img width="1325" height="635" alt="image" src="https://github.com/user-attachments/assets/5b8f801c-616b-4b30-a46a-4d32d71846e1" />
 
-Example:
-
-```
-/screenshots/home.png
-```
-
----
 
 ## User Input Form
 
-*(Insert Screenshot Here)*
+<img width="744" height="594" alt="image" src="https://github.com/user-attachments/assets/6d8b3159-0bcb-468d-8ad5-750f238ce322" />
 
-```
-/screenshots/form.png
-```
-
----
 
 ## AI Generated Recommendation
 
-*(Insert Screenshot Here)*
+<img width="289" height="316" alt="image" src="https://github.com/user-attachments/assets/f951fa5e-a337-40be-9a3b-0fc3ab218a83" />
 
-```
-/screenshots/result.png
-```
-
----
 
 # 🚀 How to Run the Project
 
-## 1. Clone the repository
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/zainabshafique2011-del/Giftora-Gift-Recommender.git
 ```
 
-## 2. Open the project
-
-```bash
-cd YOUR_REPOSITORY
-```
-
-## 3. Install dependencies
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-## 4. Create a `.env` file
+3. Create a `.env` file and add your Groq API key:
 
 ```env
-GROQ_API_KEY=YOUR_GROQ_API_KEY
+GROQ_API_KEY=your_groq_api_key
 ```
 
-## 5. Start the development server
+4. Start the application:
 
 ```bash
 npm run dev
 ```
 
-The application will run at:
-
-```
-http://localhost:8080
-```
-
----
-
+The app will open at `http://localhost:8080` (or another port if 8080 is already in use).
 # 📂 Project Structure
 
 ```
@@ -198,8 +168,6 @@ The application was tested with different scenarios, including:
 - Anniversary gifts
 - Wedding gifts
 - Graduation gifts
-- Mother's Day
-- Father's Day
 - Low budget gifts
 - Medium budget gifts
 - High budget gifts
