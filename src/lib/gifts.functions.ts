@@ -72,6 +72,13 @@ ${data.surprise ? "Surprise Mode Enabled." : ""}
 Return ONLY JSON.
 
 JSON format:
+Return ONLY valid JSON.
+
+Generate EXACTLY 3 gift ideas.
+
+The "gifts" array MUST contain exactly 3 objects.
+
+JSON format:
 
 {
   "gifts":[
@@ -81,6 +88,20 @@ JSON format:
       "reason":"",
       "price":"",
       "match":95
+    },
+    {
+      "title":"",
+      "emoji":"",
+      "reason":"",
+      "price":"",
+      "match":90
+    },
+    {
+      "title":"",
+      "emoji":"",
+      "reason":"",
+      "price":"",
+      "match":88
     }
   ],
   "card":"",
