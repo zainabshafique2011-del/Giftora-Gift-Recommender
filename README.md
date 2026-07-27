@@ -16,7 +16,7 @@ Giftora AI solves this problem by using Artificial Intelligence to generate pers
 
 **Live Application:**
 
-👉 https://giftora-gift-recommender.vercel.app/
+👉 https://giftora-gift-recommender-zainab-9dbc.vercel.app/
 
 ---
 
@@ -25,7 +25,11 @@ Giftora AI solves this problem by using Artificial Intelligence to generate pers
 👉 https://github.com/zainabshafique2011-del/Giftora-Gift-Recommender
 
 ---
+# Lovable Preview link
+👉 https://lovable.dev/preview/CeaezJ6vmm3FrpRwDbFg85wUXct5HojR
 
+this is a lovable preview link i could not deploy it because it was using its own internal API key which was unable to access but that functionality was more
+good and results were more good so thats why i added the preview link.
 # ✨ Features
 
 - 🎁 Personalized AI gift recommendations
